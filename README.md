@@ -68,7 +68,6 @@ O <b>ARENA</b> é o meu projeto mais recente e ambicioso: um console de videogam
 | 📚 **StudyBuddy** | Site para organizar e marcar atividades escolares | HTML | [Ver](https://github.com/DAVI3DS/StudyBuddy) |
 | 🧠 **Sinapse** | App Python que verifica estabilidade de ModPacks Minecraft | Python | [Ver](https://github.com/DAVI3DS/Sinapse) |
 | 🖥️ **server** | Servidor/Página inicial | Python | [Ver](https://github.com/DAVI3DS/server) |
-| 📦 **RELEASE** | Repositório de releases do ARENA | - | [Ver](https://github.com/DAVI3DS/RELEASE) |
 
 ---
 
