@@ -68,6 +68,7 @@ O <b>ARENA</b> é o meu projeto mais recente e ambicioso: um console de videogam
 | 📚 **StudyBuddy** | Site para organizar e marcar atividades escolares | HTML | [Ver](https://github.com/DAVI3DS/StudyBuddy) |
 | 🧠 **Sinapse** | App Python que verifica estabilidade de ModPacks Minecraft | Python | [Ver](https://github.com/DAVI3DS/Sinapse) |
 | 🖥️ **server** | Servidor/Página inicial | Python | [Ver](https://github.com/DAVI3DS/server) |
+| 📦 **RELEASE** | Repositório de releases do ARENA | - | [Ver](https://github.com/DAVI3DS/RELEASE) |
 
 ---
 
@@ -88,10 +89,13 @@ O <b>ARENA</b> é o meu projeto mais recente e ambicioso: um console de videogam
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DAVI3DS&show_icons=true&theme=radical&count_private=false" alt="GitHub Stats">
+  <img src="https://img.shields.io/badge/Public_Repos-9-181717?style=for-the-badge&logo=github" alt="Repositórios Públicos">
+  <img src="https://img.shields.io/badge/Followers-1-181717?style=for-the-badge&logo=github" alt="Seguidores">
+  <img src="https://img.shields.io/badge/Following-1-181717?style=for-the-badge&logo=github" alt="Seguindo">
+  <img src="https://img.shields.io/badge/Created-2025-D14836?style=for-the-badge&logo=github" alt="Desde">
 </p>
 
 ---
