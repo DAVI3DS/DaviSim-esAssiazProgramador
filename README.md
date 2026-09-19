@@ -1,7 +1,7 @@
 <!-- importações para README.md -->
 
 <p align="left">
-  <img src="https://avatars.githubusercontent.com/u/252111275?v=4" width="100" height="100" style="border-radius: 50%; border: 3px solid #5865F2;" alt="Davi">
+  <img src="https://avatars.githubusercontent.com/u/252111275?v=4" width="200" height="200" style="border-radius: 50%; border: 3px solid #5865F2;" alt="Davi">
 </p>
 
 <h1 align="center">Davi Sim 🎮✨</h1>
