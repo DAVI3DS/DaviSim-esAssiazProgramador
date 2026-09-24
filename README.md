@@ -14,4 +14,6 @@
 [![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
 \
 \
-![](https://hit.yhype.me/github/profile?user_id=252111275)
+<p align="center"><img src="https://count.getloli.com/get/@:zrodevkaan" alt=":zrodevkaan" /></p>
+
+![](https://hit.yhype.me/github/profile?user_id=90235641)
