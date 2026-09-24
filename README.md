@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DAVI3DS"><img src="https://img.shields.io/badge/GitHub-DAVI3DS-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:daviassiaz.one@gmail.com"><img src="https://img.shields.io/badge/Email-daviassiaz.one@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/DOOK3DS"><img src="https://img.shields.io/badge/GitHub-DOOK3DS-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Localização-Brasil-FF6B35?style=for-the-badge&logo=brazil" alt="Location">
 </p>
 
