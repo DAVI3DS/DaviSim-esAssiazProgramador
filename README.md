@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kaan&textBg=false&desc=10%20Years%20of%20programming%20experience%20expanding%20to%20Game%20Development,%20Tools,%20Modding%20and%20more.&fontAlign=50&strokeWidth=0&descAlignY=60&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=DOOK&textBg=false&fontSize=70&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=A+young+developer+started+out+in+the+field.&descSize=20&descAlign=50&descAlignY=60" />
 # Check out my skills!
 - Languages
 
