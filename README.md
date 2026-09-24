@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/892198602330480690">
-    <img src="https://lanyard.kyrie25.dev/api/892198602330480690?animatedDecoration=false&showDisplayName=true&forceGradient=false&hideNameplate=false&hideTimestamp=false&hideSpotify=false&imgStyle=square&theme=dark&bg=32908F&gradient=A3E7FC" />
+    <img src="https://lanyard.kyrie25.dev/api/892198602330480690?showDisplayName=true&animatedDecoration=true&hideDecoration=false&hideStatus=false&bg=32908F&gradient=A3E7FC&imgStyle=square&forceGradient=false" />
   </a>
 </p>
 
