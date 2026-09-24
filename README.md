@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/252111275?v=4" width="200" height="200" style="border-radius: 50%; border: 2px solid #5865F2;" alt="Davi">
 </p>
 
-<h1 align="center">Davi Sim 🎮✨</h1>
+<h1 align="center">DOOK🎮✨</h1>
 
 <p align="center">
   <b>Desenvolvedor full-stack | Criação de experiências digitais</b>
@@ -21,7 +21,7 @@
 ## 🚀 Sobre Mim
 
 <p align="justify">
-Olá! Sou <b>Davi</b>, um desenvolvedor brasileiro apaixonado por transformar ideias em soluções tech funcionais. Minha filosofia: <i>"Transformando linhas de código em arte"</i>. 
+Olá! Sou <b>DOOK</b>, um desenvolvedor brasileiro apaixonado por transformar ideias em soluções tech funcionais. Minha filosofia: <i>"Transformando linhas de código em arte"</i>. 
 </p>
 
 <p align="justify">
