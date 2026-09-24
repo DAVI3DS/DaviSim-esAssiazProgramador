@@ -16,4 +16,6 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:DOOK3DS" alt=":DOOK3DS" /></p>
 
-![](https://hit.yhype.me/github/profile?user_id=90235641)
+## 🌟 Stargazers over time
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/1210960065.svg)](https://yhype.me?utm_source=github&utm_medium=dook3ds-dook&utm_content=chart-repository-star-cumulative)
