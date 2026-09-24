@@ -13,8 +13,13 @@
 - Platforms
 
 [![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
-
-[![Discord Presence](https://lanyard.kyrie25.dev/api/892198602330480690?animatedDecoration=false&showDisplayName=true&forceGradient=false&hideNameplate=false&hideTimestamp=false&hideSpotify=false&imgStyle=square&theme=dark&bg=32908F&gradient=A3E7FC)](https://discord.com/users/892198602330480690)
+\
+\
+<p align="center">
+  <a href="https://discord.com/users/892198602330480690">
+    <img src="https://lanyard.kyrie25.dev/api/892198602330480690?animatedDecoration=false&showDisplayName=true&forceGradient=false&hideNameplate=false&hideTimestamp=false&hideSpotify=false&imgStyle=square&theme=dark&bg=32908F&gradient=A3E7FC" />
+  </a>
+</p>
 
 <p align="center"><img src="https://count.getloli.com/get/@:DOOK3DS" alt=":DOOK3DS" /></p>
 
