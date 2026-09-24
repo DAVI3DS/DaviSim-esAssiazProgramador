@@ -14,6 +14,6 @@
 [![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
 
 
-<p align="center"><img src="https://count.getloli.com/get/@:zrodevkaan" alt=":zrodevkaan" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:DOOK3DS" alt=":DOOK3DS" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=90235641)
