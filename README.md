@@ -102,7 +102,7 @@ O <b>ARENA</b> é o meu projeto mais recente e ambicioso: um console de videogam
 ## 📬 Contato
 
 <p align="center">
-  <b>Email:</b> daviassiaz.one@gmail.com<br>
+  <b>Email:</b> Não disponivel<br>
   <b>Location:</b> 🇧🇷 Brasil
 </p>
 
