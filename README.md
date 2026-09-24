@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=DOOK&textBg=false&fontSize=70&fontAlign=50&fontAlignY=40&rotate=0&strokeWidth=0&desc=A+young+developer+started+out+in+the+field.&descSize=20&descAlign=50&descAlignY=60" />
+
 # Check out my skills!
 - Languages
 
