@@ -12,7 +12,7 @@
 - Platforms
 
 [![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
-\
+
 
 <p align="center"><img src="https://count.getloli.com/get/@:zrodevkaan" alt=":zrodevkaan" /></p>
 
