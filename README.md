@@ -13,6 +13,7 @@
 
 [![Platforms](https://skillicons.dev/icons?i=windows)](https://skillicons.dev/icons)
 
+[![My Discord](https://lanyard.cnrad.dev/api/892198602330480690)](https://discord.com/users/892198602330480690)
 
 <p align="center"><img src="https://count.getloli.com/get/@:DOOK3DS" alt=":DOOK3DS" /></p>
 
